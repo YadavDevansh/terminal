@@ -4,8 +4,6 @@ import os
 import signal
 os.system("cls")
 cmd=0  
-def square(x): 
-    return x * x 
 
 tickers=[]
 if __name__ == '__main__': 
